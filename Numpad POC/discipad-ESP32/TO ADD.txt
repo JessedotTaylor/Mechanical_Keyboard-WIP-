@@ -1,0 +1,7 @@
+Current limiting Resistor
+[x] Power to ESP from 5VREG
+[x] Underglow LEDs
+[No Space] Mounting pins for LCD
+[x] Mounting Holes for PCB
+
+KeyCaps - https://www.aliexpress.com/item/4000245462104.html?spm=a2g0o.productlist.0.0.727268f5ixzeSb&algo_pvid=545151e0-c3b4-4c64-8b95-faacb6c4aab6&algo_expid=545151e0-c3b4-4c64-8b95-faacb6c4aab6-5&btsid=0ab6fb8315915222289885642e2635&ws_ab_test=searchweb0_0,searchweb201602_,searchweb201603_
